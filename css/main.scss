@@ -58,3 +58,21 @@ $on-laptop:        800px;
 #mapa td, #mapa th {
 			padding: 10px;
 		}
+
+#tabla {
+	border-collapse: collapse;
+	
+	tr td {
+		border: 2px solid black;
+	}
+	
+	td {
+		padding: 10px;
+		width: 200px;
+	}
+	
+	th {
+		padding: 10px;
+		text-align: center;
+	}
+}

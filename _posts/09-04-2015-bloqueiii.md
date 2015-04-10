@@ -15,6 +15,59 @@ La *observación* equivale a mirar con detenimiento, es la forma más usual con 
 4. Controlarse Sistemáticamente
 5. Los resultados de la observación deben plasmarse por escrito en el momento exacto en el que ocurren.
 
+<table id="mapa">
+	<thead>
+		<th colspan="5">
+			<h4>Observación</h4>
+		</th>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Lugar donde ser realiza</td>
+			<td>Participación del observador</td>
+			<td>Medios utilizados</td>
+			<td>Números de observadores</td>
+			<td>Tipos de fenómenos</td>
+		</tr>
+		<tr>
+			<td>
+				<ul>
+					<li>Documental</li>
+					<li>De Campo</li>
+					<li>De Laboratorio</li>
+					<li>Monumental</li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+					<li>Participante</li>
+					<li>No Participante</li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+					<li>Dirigida</li>
+					<li>No Dirigida</li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+					<li>Individual</li>
+					<li>En Equipo</li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+					<li>Ciencias Exactas</li>
+					<li>Fenómenos Sociales </li>
+					<li>Comprobación o Rechazo</li>
+					<li>Heurística.</li>
+				</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
 #### En Función de Dónde se Realiza
 
 *La Observación Documental*
@@ -115,54 +168,3 @@ Es la recopilación acumulación y ordenamiento de los medios e instrumentos que
 * Esquema Preliminar
 * Bibliografía & Mesografía
 * Factibilidad académica
-
-<table id="mapa">
-	<thead>
-		<th colspan="5"><h4>Observación</h4></th>
-	</thead>
-	<tbody>
-		<tr>
-			<td>Lugar donde ser realiza</td>
-			<td>Participación del observador</td>
-			<td>Medios utilizados</td>
-			<td>Números de observadores</td>
-			<td>Tipos de fenómenos</td>
-		</tr>
-		<tr>
-			<td>
-				<ul>
-					<li>Documental</li>
-					<li>De Campo</li>
-					<li>De Laboratorio</li>
-					<li>Monumental</li>
-					
-				</td>
-				<td>
-				<ul>
-					<li>Participante</li>
-					<li>No Participante</li>
-					
-				</td>
-				<td>
-				<ul>
-					<li>Dirigida</li>
-					<li>No Dirigida</li>
-				<ul>	
-				</td>
-				<td>
-				
-					<li>Individual </li>
-					<li>En Equipo</li>
-					
-				</td>
-				<td>
-				<ul>
-					<li>Ciencias Exactas </li>
-					<li>Fenómenos Sociales </li>
-					<li>Comprobación o Rechazo </li>
-					<li>Heurística.</li>
-				</ul>	
-			</td>
-		</tr>
-	</tbody>
-</table>
