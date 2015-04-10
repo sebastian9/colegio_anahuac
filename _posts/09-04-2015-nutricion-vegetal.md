@@ -13,7 +13,6 @@ categories: biologia
     Agua, minerales, oxígeno, CO<small>2</small>  
 
 3.  ¿Cuál es la savia bruta y cuál es la savia elaborada?  
-
     Agua con minerales en los vasos leñosos que son tejidos en el interior de los tallos.  
     Es una savia procesada que tiene glucosa agua y minerales. 
 
@@ -23,9 +22,7 @@ categories: biologia
     Las _hojas_ se encargan de la fotosíntesis y la respiración celular. 
 
 5.  ¿Qué diferencia existe entre la respiración y la fotosíntesis de una planta?
-
-La _respiración_ es el proceso de absorción de CO<small>2</small> y expulsión de O<small>2</small>
+	La respiración es el proceso de absorción de CO<small>2</small> y expulsión de O<small>2</small>
 
 7.  Invetiga las teorías del transporte celular vegetal
-
-Teoría de la Cohesión-Tensión
+	Teoría de la Cohesión-Tensión
