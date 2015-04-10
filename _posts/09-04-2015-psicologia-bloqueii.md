@@ -92,7 +92,7 @@ Aplicaciones en la dinámica de grupo:
     *   Sociabilización
     *   Trabajo en Equipo
 
-## Influencias de la Base Social en la Personalidadx
+## Influencias de la Base Social en la Personalidad
 
 ### Interacción Personalidad Ambiente
 
