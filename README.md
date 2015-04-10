@@ -1,2 +1,2 @@
-# colegio_anahuac
+# Colegio Anáhuac 
 Apuntes del Colegio
