@@ -47,6 +47,14 @@ $on-laptop:        800px;
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
-        "layout",
-        "syntax-highlighting"
+        "layout"
 ;
+
+#logo {
+	width: 2.5rem;
+	margin: 0.25rem;
+}
+
+#mapa td, #mapa th {
+			padding: 10px;
+		}
