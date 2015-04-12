@@ -3,7 +3,7 @@ title: Colegio Anáhuac
 email: sebastinlpez@colegionanahuacsc.edu.mx
 description: >
   Apuntes diarios del
-  <a href="http://colegioanahuacsc.edu.mx/viveros/login/index.php" target="_blank">colegionanahuac sc</a>
+  [Colegio Anáhuac](http://colegioanahuacsc.edu.mx/viveros/login/index.php)
 baseurl: "/colegio_anahuac/" # the subpath of your site, e.g. /blog/
 url: "http://sebastianls.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
