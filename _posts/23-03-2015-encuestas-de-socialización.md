@@ -15,9 +15,13 @@ layout: post
 
 ## Entrevistados
 
-# Rocío Cobo
+# Ary Moreno
 
-1. 
+1. Hablar con las personas.
+2. Respeto.
+3. Ser extrovertida.
+4. Les digo lo que necesito.
+5. Sí, porque soy extrovertida.
 
 # Sofía Carrasco
 
@@ -26,3 +30,5 @@ layout: post
 3. Soy sincera.
 4. Las externo verbalmente o se nota en mi expresión corporal.
 5. Sí, porque me doy permiso de conocer a las perrsonas sin juzagarlas.
+
+# Rocío Cobo
