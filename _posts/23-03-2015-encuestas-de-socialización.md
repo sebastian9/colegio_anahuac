@@ -2,6 +2,7 @@
 title: Encuestas de Socialización (Tarea)
 date: 26-03-2015
 categories: psicologia
+layout: post
 ---
 
 # Cuestionario
