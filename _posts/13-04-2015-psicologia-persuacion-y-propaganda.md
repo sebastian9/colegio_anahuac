@@ -7,4 +7,4 @@ title: Persuación y Propaganda  (Presentación)
 
 # Link a la Presentación en PDF
 
-[Presencia Web]({{ site.url}}{{ site.baseurl }}assets/pdf/presencia-web.pdf)
+[Presencia Web]({{ site.url}}{{ site.baseurl }}/assets/pdf/presencia-web.pdf)
