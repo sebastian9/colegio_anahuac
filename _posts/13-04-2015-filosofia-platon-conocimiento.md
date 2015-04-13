@@ -1,5 +1,5 @@
 ---
-title: Platón: Los Grados de Conocimiento
+title: Platón | Los Grados de Conocimiento
 layout: post
 categories: filosofia
 date: 13-04-2015
