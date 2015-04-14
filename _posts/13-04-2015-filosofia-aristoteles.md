@@ -13,13 +13,41 @@ Academia:
   Fundó su propia escuela, el liceo, siendo tutor de Alejandro Magno y maestro de Arquímedes 
 Obras: Ética a Nicómano; La Virtud; tratados de: filosofía, poética, astronomía, biología, etc.
 
-# Cuestionario: La Aventura de Pensamiento Aristóteles Parte 1
+# Cuestionario: La Aventura del Pensamiento de Aristóteles Parte 1
 
 1.  ¿Qué es lo real?
+  Lo individual y lo particular.
 2.  ¿Qué es el hombre?
+  * El soma, la materia del cuerpo
+  * La psyche, el alma
 3.  ¿Cuáles son las características distintivas del hombre?
+  * 
 4.  ¿Por qué dice Aristóteles que somos animales políticos?
 5.  ¿A quiénes se les llama peripatéticos y porque?
 6.  ¿Cómo divide las ciencias Aristóteles?
 7.  ¿Qué son las ideas para Aristóteles?
 8.  Explique la diferencia fundamental entre la filosofía de Platón y la filosofía de Aristóteles 
+
+# Principios de la Doctrina Aristotélica 
+
+* Admite la existencia del movimiento y la pluralidad de las entidades físicas.
+* Coincide con la teoría heracliteana de los opuestos.
+* Aceptó el postulado de la física milesia que dice que es imposible que algo proceda de la nada o del no ser.
+* No hay dos mundos; para Aristóteles, las cosas ya tienen en sí mismos su esencia.
+* Defiende la idea de la existencia de una inteligencia ordenadora de la realidad a la que llama *primer motor* o *motor inmóvil*
+* La filosofía y la formación de Aristóteles fue de tipo experimental
+* Las cosas están formadas por cuatro elementos
+* Se interesa en el origen o sustrato de las cosas
+
+# El método de investigación Aristotélico
+
+* ¿Qué se debe indagar cuando se hace una investigación?
+  1. La existencia del hecho (es decir si puede ser captado a través de los sentidos).
+  2. La causa o explicación causal.
+* ¿Cuáles son las causas para que un objeto exista y sea lo que es?
+  - Existen 4 tipos de causas 
+    1. Causa material
+    2. Causa formal
+    3. Causa eficiente
+    4. Causa final
+  
