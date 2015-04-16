@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 09-04-2015
+date: 13-04-2015
 categories: psicologia
 title: Persuación y Propaganda  (Presentación)
 ---
