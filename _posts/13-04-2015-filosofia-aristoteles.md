@@ -50,4 +50,35 @@ Obras: Ética a Nicómano; La Virtud; tratados de: filosofía, poética, astrono
     2. Causa formal
     3. Causa eficiente
     4. Causa final
-  
+    
+# ¿Cuáles son las causas que se necesita para que exista un objeto y  éste sea lo que es?
+
+*Causa es todo factor o circunstancia que contribuye para el ser o producción de algo.*
+
+- Causa Material: La materia de lo que está hecha.
+- Causa Formal: Es la forma interior o esencia de una cosa, es decir, la organización interna de sus constitutivos.
+- Causa Eficiente: El agente productor.
+- Causa Final: Aquello en vista de lo cual se produce el objeto.
+
+# Ejemplos de Objetos y Sus Causas
+
+### Una computadora
+
+- Causa material: Plástico, metales.
+- Causa formal: Circuitos, pantalla, teclado, procesador, memorias, discos, color, impulsos eléctricos, etcétera.
+- Causa eficiente: Apple.
+- Causa final: Ganancias.
+
+### El Agua
+
+- Causa material: 2:1 de hidrógeno y oxígeno
+- Causa formal: Moléculas de agua con una energía kinética interna entre 273 K y 373 K a una presión de un Bar
+- Causa eficiente: El caos
+- Causa final: Entropía
+
+### Dodecaedro MX
+
+- Causa material: Algoritmos replicables de impulsos eléctricos.
+- Causa formal: Generador de páginas estáticas de jekyll alimentado por contenido artístico.
+- Causa eficiente: Equipo de dodecaedro.
+- Causa final: Difusión del arte local. 
