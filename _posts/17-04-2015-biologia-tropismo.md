@@ -23,4 +23,4 @@ El geotropismo es un tipo de tropismo, propio de las plantas, que se refleja en 
 
 En Botánica se denomina hidrotropismo al crecimiento direccional de las raíces de las plantas con relación a la disponibilidad de agua, es la respuesta a estimulos cuyo origen es el agua.
 
-<img alt="Hidrotropismo" src="hhttp://www.ecured.cu/images/thumb/7/7b/Hidrotropismo1.png/260px-Hidrotropismo1.png">
+<img alt="Hidrotropismo" src="http://www.ecured.cu/images/thumb/7/7b/Hidrotropismo1.png/260px-Hidrotropismo1.png">
