@@ -82,3 +82,48 @@ Obras: Ética a Nicómano; La Virtud; tratados de: filosofía, poética, astrono
 - Causa formal: Generador de páginas estáticas de jekyll alimentado por contenido artístico.
 - Causa eficiente: Equipo de dodecaedro.
 - Causa final: Difusión del arte local. 
+
+# La Physis (Naturaleza y Movimiento)
+
+Según Aristóteles para el estudio de la naturaleza se pueden usar las siguientes ciencias, para Aristóteles el estudio de la naturaleza es el estudio del movimiento.
+
+### Especulativa
+
+Es el estudio de la verdad, y se subdivide en las siguientes disciplinas:
+
+* __Física:__ Estudio de la naturaleza en movimiento o dinámica.
+* __Matemáticas:__ Estudio de los números y los cuerpos geométricos.
+* __Metafísica:__ Estudio de aquello que está más allá de la física.
+
+### Práctica
+
+Acción
+
+#  Fundamentos para entender el movimiento de la Physis
+
+Todos los seres tienen 3 propiedades
+
+### Sustancia
+
+Hace referencia al elemento constitutivo de un objeto pero considerado como lo permanente y que a la vez sirve de soporte a los accidentes, que son las formas.
+
+### Esencia
+
+Es el mismo elemento constitutivo, pero ahora contemplado como aquello que hace al objeto ser lo que es. Son los adjetivos del objeto, un conjunto de elementos.
+
+### Naturaleza
+
+El mismo constitutivo, pero concebido en su aspecto dinámico, es decir, como la fuente de as operaciones, los cambios o los movimientos que son posibles en dicho objeto.
+
+### Ejemplos
+
+__Un libro:__
+* _Sustancia:_ El papel
+* _Esencia:_ Impreso, pensado.
+* _Naturaleza:_ Se puede escribir.
+
+__Botella de Vidrio:__
+* _Sustancia:_ El vidrio
+* _Esencia:_ Espacio cerrado diseñado como contenedor y con un tapón.
+* _Naturaleza:_ Maleabilidad e impermeabilidad.
+
