@@ -24,7 +24,7 @@ Recogió la temática de la filosofía eleática concluyendo que nada existe. Se
 
 El relativismo de Protágoras pasa a ser en Gorgias escepticismo, sosteniendo tesis nihilistas (del latín nihil, nada) tesis que sostiene la ausencia de convicciones verdaderas así como de los valores. En el caso de Gorgias, se niega la existencia de nada permanente en lo real al declarar falsas todas las opiniones.
 
-<img alt="Gorgias" src"http://cdn.timerime.com/cdn-4/upload/resized/118460/1325110/resized_image2_14eaf2a486c1d7a4b375878e75949c7e.jpg">
+<img alt="Gorgias" src="http://cdn.timerime.com/cdn-4/upload/resized/118460/1325110/resized_image2_14eaf2a486c1d7a4b375878e75949c7e.jpg">
 
 # Calicles
 
