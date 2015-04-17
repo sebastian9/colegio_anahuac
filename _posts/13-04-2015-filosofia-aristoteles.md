@@ -20,8 +20,7 @@ Obras: Ética a Nicómano; La Virtud; tratados de: filosofía, poética, astrono
 2.  ¿Qué es el hombre?
   * El soma, la materia del cuerpo
   * La psyche, el alma
-3.  ¿Cuáles son las características distintivas del hombre?
-  * 
+3.  ¿Cuáles son las características distintivas del hombre? 
 4.  ¿Por qué dice Aristóteles que somos animales políticos?
 5.  ¿A quiénes se les llama peripatéticos y porque?
 6.  ¿Cómo divide las ciencias Aristóteles?
@@ -117,13 +116,13 @@ El mismo constitutivo, pero concebido en su aspecto dinámico, es decir, como la
 
 ### Ejemplos
 
-__Un libro:__
-- _Sustancia:_ El papel
-- _Esencia:_ Impreso, pensado.
-- _Naturaleza:_ Se puede escribir.
+**Un libro:**
+* _Sustancia:_ El papel
+* _Esencia:_ Impreso, pensado.
+* _Naturaleza:_ Se puede escribir.
 
-__Botella de Vidrio:__
-- _Sustancia:_ El vidrio
-- _Esencia:_ Espacio cerrado diseñado como contenedor y con un tapón.
-- _Naturaleza:_ Maleabilidad e impermeabilidad.
+**Botella de Vidrio:**
+* _Sustancia:_ El vidrio
+* _Esencia:_ Espacio cerrado diseñado como contenedor y con un tapón.
+* _Naturaleza:_ Maleabilidad e impermeabilidad.
 
