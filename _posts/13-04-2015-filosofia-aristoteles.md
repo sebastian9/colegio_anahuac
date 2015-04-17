@@ -118,12 +118,12 @@ El mismo constitutivo, pero concebido en su aspecto dinámico, es decir, como la
 ### Ejemplos
 
 __Un libro:__
-* _Sustancia:_ El papel
-* _Esencia:_ Impreso, pensado.
-* _Naturaleza:_ Se puede escribir.
+- _Sustancia:_ El papel
+- _Esencia:_ Impreso, pensado.
+- _Naturaleza:_ Se puede escribir.
 
 __Botella de Vidrio:__
-* _Sustancia:_ El vidrio
-* _Esencia:_ Espacio cerrado diseñado como contenedor y con un tapón.
-* _Naturaleza:_ Maleabilidad e impermeabilidad.
+- _Sustancia:_ El vidrio
+- _Esencia:_ Espacio cerrado diseñado como contenedor y con un tapón.
+- _Naturaleza:_ Maleabilidad e impermeabilidad.
 
