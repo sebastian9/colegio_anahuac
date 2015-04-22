@@ -1,6 +1,6 @@
 ---
 title: Observación No Participante Centro Comercial
-categories: filosofia
+categories: metodologia
 date: 22-04-2015
 layout: post
 ---
