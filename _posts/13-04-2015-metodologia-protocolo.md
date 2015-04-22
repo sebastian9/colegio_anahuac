@@ -1,5 +1,5 @@
 ---
-title: El Protocolo
+title: El Protocolo (Tema)
 layout: post
 categories: metodologia
 date: 13-04-2015
@@ -23,3 +23,21 @@ date: 13-04-2015
 12. Procesamiento de Datos 
 13. Elaboración del Reporte Final
 14. Entrega de Reporte de Investigación 
+
+# Funciones del un Protocolo de Investigación
+
+Un proyecto debe responder
+
+- ¿Qué vamos a aprender con la investigación?
+- ¿Por qué vale la pena saberlo?
+- ¿Cómo sabemos que las conclusiones son válidas? (Evidencia Empírica)
+
+El planteamiento del Proyecto y el Problema debe especificar:
+> Ejemplos Taxi QR
+
+- Área
+	1. Ciencias Sociales
+		1. Sociología
+			1. Sociología Urbana
+- Tema:
+	- Inseguridad en el transporte público
