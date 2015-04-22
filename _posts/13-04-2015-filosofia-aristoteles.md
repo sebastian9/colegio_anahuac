@@ -20,7 +20,8 @@ Obras: Ética a Nicómano; La Virtud; tratados de: filosofía, poética, astrono
 2.  ¿Qué es el hombre?
   * El soma, la materia del cuerpo
   * La psyche, el alma
-3.  ¿Cuáles son las características distintivas del hombre? 
+3.  ¿Cuáles son las características distintivas del hombre?
+  * 
 4.  ¿Por qué dice Aristóteles que somos animales políticos?
 5.  ¿A quiénes se les llama peripatéticos y porque?
 6.  ¿Cómo divide las ciencias Aristóteles?
@@ -116,14 +117,26 @@ El mismo constitutivo, pero concebido en su aspecto dinámico, es decir, como la
 
 ### Ejemplos
 
-**Un libro:**
-
+__Un libro:__
 * _Sustancia:_ El papel
 * _Esencia:_ Impreso, pensado.
 * _Naturaleza:_ Se puede escribir.
 
-**Botella de Vidrio:**
+__Botella de Vidrio:__
+- _Sustancia:_ El vidrio
+- _Esencia:_ Espacio cerrado diseñado como contenedor y con un tapón.
+- _Naturaleza:_ Maleabilidad e impermeabilidad.
 
-* _Sustancia:_ El vidrio
-* _Esencia:_ Espacio cerrado diseñado como contenedor y con un tapón.
-* _Naturaleza:_ Maleabilidad e impermeabilidad.
+# El Hilemorfismo
+
+Aristóteles lo postula como una solución al problema de la physis, es el análisis del movimiento o cambio y concurre en tres momentos:
+
+- _El Sujeto de Cambio:_ Lo que permanece a través del cambio o lo que resulta afectado por el cambio.
+- _El Sujeto que Desaparece:_ El elemento que, hasta antes de iniciarse el cambio, existía en el objeto, pero que ahora tiene que desaparecer para dar lugar al nuevo elemento.
+- _El Elemento que Aparece:_ El que, al iniciarse el cambio, empieza a completarse, y queda completado en el último momento del cambio.
+
+Todos los objetos tienen un elemento primario o materia prima, el yle, el que siempre estará en potencia y cambiando de forma (morfe). El mundo está hecho de la posibilidad de que la materia siempre cambie de forma.
+
+# El Motor Inmóvil
+
+Es el motor no movido, es Dios como acto puro y el primer movimiento.
