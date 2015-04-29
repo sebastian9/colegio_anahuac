@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 29-04-2015
-title: Práctica: Determinación de Acidez
+title: Práctica | Determinación de Acidez
 categories: quimica
 ---
 
