@@ -7,6 +7,37 @@ date: 22-04-2015
 
 # Tradiciones
 
+1. Grito de independencia 
+2. Comer antojitos 
+3. Hacer bromas
+4. No trabajar en días festivos
+5. Ceremonias
+6. Comer en familia
+7. Comer tamales
+8. Bailes folclóricos 
+9. Desfiles
+10. Pastoréales
+11. Mandar dinero
+12. Vía crusis 
+13. Uvas año nuevo
+14. Hacer ofrendas
+15. Posadas
+16. Honores a la bandera
+17. Manifestaciones
+18. Misa
+19. Bailar salsa
+20. Comer rosca
+21. Vestirse de charro
+22. Calavera de azúcar
+23. Piñatas
+24. Mariachis 
+25. Dar flores
+26. Quince años
+27. Rezar
+28. Nacimientos
+29. Decorar las casas
+30. Invitar a comer
+
 # Platillos
 
 barriga de res o menudo
@@ -50,7 +81,36 @@ Tamales agrios de cacahuate
 
 # Celebraciones
 
-
+1. Reyes
+2. Santa Inés
+3. Santo Tomás
+4. Constitución
+5. Sn valentin
+6. Día de la bandera
+7. Día de la mujer
+8. Si patricio
+9. E cartero
+10. El carpintero
+11. Día forestal 
+12. Día del agua
+13. La hora del planeta
+14. Día de la salud
+15. Día d la danza
+16. Día del niño
+17. Día del trabajo
+18. Batalla de puebla
+19. Navidad
+20. Día de muertos
+21. Día de la música
+22. Independencia de México
+23. Sam Agustín
+24. Día de las madres
+25. Día de la familia
+26. Día del padre
+27. Día de los abuelos
+28. Día sin tabaco
+29. Día del internet
+30. Día del maestro
 
 # Dialectos
 
