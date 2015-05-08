@@ -16,11 +16,39 @@ prose:
   siteurl: 'http://sebastianls.com/colegio_anahuac/'
   media: 'assets/img'
   metadata:
-    - name: "layout"
-	  field:
-	    element: "hidden"
-		value: "post"
-	- name: "title"
-      field:
-        element: "text"
-        label: "title"
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Título"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "category"
+        field:
+          element: "select"
+          label: "Materia"
+          options:
+            - name: "Animación"
+              value: "animacion"
+            - name: "Biología"
+              value: "biologia"
+            - name: "Cálculo"
+              value: "calculo"
+            - name: "Ecología"
+              value: "ecologia"
+            - name: "Filosofía"
+              value: "filosofia"
+            - name: "Física"
+              value: "fisica"
+            - name: "Metodología"
+              value: "metodología"
+            - name: "Psicología"
+              value: "psicología"
+            - name: "Química"
+              value: "quimica"
+            - name: "Salud"
+              value: "Salud"
+            - name: "Diseño Web"
+              value: "web"
