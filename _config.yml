@@ -29,7 +29,7 @@ prose:
         field:
           element: "text"
           label: "Fecha de creación (dd-mm-aaaa)"
-          value: "19-04-2015"
+          value: 19-04-2015
       - name: "category"
         field:
           element: "select"
