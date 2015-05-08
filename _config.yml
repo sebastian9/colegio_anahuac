@@ -12,9 +12,9 @@ github_username:  jekyll
 markdown: kramdown
 
 prose:
-	rooturl: "_posts"
-	siteurl: "http://sebastianls.com/colegio_anahuac/"
-	media: "assets/img"
+	rooturl: '_posts'
+	siteurl: 'http://sebastianls.com/colegio_anahuac/'
+	media: 'assets/img'
 	metadata:
 		- name: "layout"
 			field:
