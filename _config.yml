@@ -25,7 +25,11 @@ prose:
         field:
           element: "hidden"
           value: "post"
-      - date: CURRENT_DATETIME
+      - name: "date"
+        field:
+          element: "text"
+          label: "Fecha de creación (dd-mm-aaaa)"
+          value: "19-04-2015"
       - name: "category"
         field:
           element: "select"
