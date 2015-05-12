@@ -22,6 +22,6 @@ category: ecologia
 ## Tarea 
 
 - Tamiz neonatal:
-  - 
+  - Es una prueba sanguínea que se realiza para detectar enfermedades que pueden ser irreversibles una vez nacido
 - Apgar
   - Calificación de las condiciones fisiológicas del bebé.
