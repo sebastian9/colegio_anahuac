@@ -1,5 +1,5 @@
 ---
-title: Exposición Hidroponia
+title: Programa Exposición Hidroponia
 layout: post
 categories: ecologia 
 date: 12-05-2015
@@ -18,3 +18,4 @@ date: 12-05-2015
 11. Cesar: Cultivo en Sustrato
 12. Julio: Instructivo de Unicel
 13. Javier: Oxigenón
+14. Sebastián: Mitos y Verdades de la Hidroponoia.
