@@ -1,11 +1,10 @@
 ---
 layout: post
-published: false
+published: true
 title: Higiene Prenatal
 date: "12-05-2015"
 category: ecologia
 ---
-
 
 - Análisis
 - 11 kg
@@ -22,5 +21,7 @@ category: ecologia
 
 ## Tarea 
 
-- Tamiz neonatal
+- Tamiz neonatal:
+  - 
 - Apgar
+  - Calificación de las condiciones fisiológicas del bebé.
