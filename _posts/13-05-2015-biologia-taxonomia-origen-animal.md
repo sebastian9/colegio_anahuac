@@ -31,11 +31,17 @@ Ejemplos:
 - Coral y Anémona
 
 ### Platyhelminthes
+
 ### Nematoda
+
 ### Mollusca
+
 ### Anelida
+
 ### Arthropoda
+
 ### Equinodermata
+
 ### Chordata
 
 ## Teorías
