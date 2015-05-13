@@ -42,8 +42,6 @@ Ejemplos:
 
 ### Colonial
 
-**La teoría Colonial**
-
 Es la teoría clásica y más frecuentemente hallada en la literatura. Esta teoría fue concebida por el naturalista de origen alemán Ernst H. Haeckel (1874), más tarde modificada por el biólogo ruso y Premio Nobel Iliá Mechnikov (1887) y posteriormente revivida por el biólogo L. Hyman. (1940).
 
 Según este punto de vista, los animales se originaron a partir de protistas flagelados coloniales ameboideos. Esta teoría sostiene que los flagelados fueron los ancestros de los animales, que estos estaban dispuestos en forma de esferas huecas (con células flageladas en la superficie externa, parecido a protozoos del género Volvox) con un eje anteroposterior definido, que nadaban con el polo anterior dirigido hacia delante y que presentaban una diferenciación entre células somáticas y reproductivas (internas).
@@ -56,9 +54,6 @@ Los seguidores de esta concepción citan como evidencias las siguientes cuestion
 - los protistas fitoflagelados exhiben cierta tendencia a una organización colonial, que pudo haber conducido a una organización pluricelular. Por ejemplo, en Volvox se puede apreciar, como ya se dijo, una diferenciación entre las células somáticas y reproductivas.
 
 ### Simbiótica
-
-Endosimbiosis seriada
-EditarVigilar esta página
 
 Origen de las algas por endosimbiosis seriada.
 La endosimbiosis seriada (Serial Endosymbiosis Theory) o teoría endosimbiótica, describe la aparición de las células eucariotas o eucariogénesis como consecuencia de la sucesiva incorporación simbiogenética de diferentes bacterias de vida libre (procariotas); tres incorporaciones en el caso de las células animales y de hongos, y cuatro en el caso de las células vegetales.
