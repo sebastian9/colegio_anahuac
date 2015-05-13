@@ -30,13 +30,13 @@ Ejemplos:
 - Medusa
 - Coral y Anémona
 
-- Platyhelminthes
-- Nematoda
-- Mollusca
-- Anelida
-- Arthropoda
-- Equinodermata
-- Chordata
+### Platyhelminthes
+### Nematoda
+### Mollusca
+### Anelida
+### Arthropoda
+### Equinodermata
+### Chordata
 
 ## Teorías
 
