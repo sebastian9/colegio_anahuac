@@ -14,5 +14,6 @@ date: 18-05-2015
 	- Matrícula
 2. Introducción (1 Punto)
 	- Breve explicación de qué es la hidroponia.
-3. Bitácora (7p Puntos)
+3. Bitácora (7 Puntos)
 	- Describe paso a paso lo que hiciste desde la siembra hasta la cosecha incluyendo el registro de imágenes.
+4. Conclusión (1 Punto)
