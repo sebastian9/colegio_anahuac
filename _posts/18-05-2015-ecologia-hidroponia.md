@@ -2,6 +2,7 @@
 title: Proyecto Hidroponia
 category: ecologia
 date: 18-05-2015
+layout: post
 ---
 
 **Fecha de entrega:** Segunda Semana de Junio
