@@ -31,7 +31,7 @@ date: 13-05-2015
 
 - Hydrozoa
 
-![](http://kasetday.agri.ubu.ac.th/upload/ciprut/root/home/jarungjit/porifera/Sclerospongiae/ceratoporella.jpg)
+![](https://m1.behance.net/rendition/modules/17565140/disp/cd19f1f00e51963580b9d623ae7aa3f0.jpg)
 
 - Scyphozoa
 
@@ -67,7 +67,7 @@ Son parásitos muy comunes en el ser humano. Son acelomados y bilaterios.
 
 + Trematodo - Fasciola hepática
 
- ![](http://upload.wikimedia.org/wikipedia/commons/1/1e/Pseudoceros_dimidiatus.jpg)
+![](http://biodidac.bio.uottawa.ca/ftp/biodidac/zoo/platyhel/photo/trem054p.gif)
  
 + Cestoda - Taenia saginata
 
@@ -96,7 +96,14 @@ Son parásitos muy comunes en el ser humano. Son acelomados y bilaterios.
 + Bivaluia (Almeja)
 + Cephalopoda (Pulpo)
 
-- Anelida
+### Anelida
+
+*Anellus: pequeño anillo*
+
++ Polichaeta (Neris)
++ Oligochaeta (Lumbricus)
++ Hirudinea (Hirudo)
+
 - Arthropoda
 - Equinodermata
 - Chordata
