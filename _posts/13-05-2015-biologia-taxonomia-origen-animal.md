@@ -1,52 +1,86 @@
 ---
-title: Clasificación Animal y Teorías del Origen de los Animales
+title: Protistas Ancestrales
 layout: post
 categories: biologia 
 date: 13-05-2015
 ---
-
-## Protistas Ancestrales
 
 ### Porífera
 
 *Porus: Poro & Fera llevar* | **Esponjas**
 
 - Calcárea
+![](http://museum.wa.gov.au/sites/default/files/imagecache/wam_v2_article_full/collections/calcarea-sycon-cf-gelatinosum.jpg)
 - Hexactinelida
+![](http://circulatoryswaggwagons.weebly.com/uploads/1/1/5/3/11533140/537643589.jpg)
 - Demospongiae
+![](http://museum.wa.gov.au/sites/default/files/imagecache/wam_v2_article_full/collections/demospongiae-ianthella-flabelliformis.jpg)
 - Sclerospongiae
+![](http://kasetday.agri.ubu.ac.th/upload/ciprut/root/home/jarungjit/porifera/Sclerospongiae/ceratoporella.jpg)
 
 ### Cnidaria
 
 *Cnide: Aguja, Aria: Relacionado con*
 
 - Hydrozoa
+![](http://kasetday.agri.ubu.ac.th/upload/ciprut/root/home/jarungjit/porifera/Sclerospongiae/ceratoporella.jpg)
 - Scyphozoa
+![](http://kasetday.agri.ubu.ac.th/upload/ciprut/root/home/jarungjit/porifera/Sclerospongiae/ceratoporella.jpg)
 - Anthozoa
+![](http://kasetday.agri.ubu.ac.th/upload/ciprut/root/home/jarungjit/porifera/Sclerospongiae/ceratoporella.jpg)
 
 Ejemplos:
 
 - Hidra
+![](![](http://kasetday.agri.ubu.ac.th/upload/ciprut/root/home/jarungjit/porifera/Sclerospongiae/ceratoporella.jpg))
 - Medusa
+![](http://kasetday.agri.ubu.ac.th/upload/ciprut/root/home/jarungjit/porifera/Sclerospongiae/ceratoporella.jpg)
 - Coral y Anémona
+![](https://cnho.files.wordpress.com/2011/07/anemona.jpg)
 
 ### Platyhelminthes
 
-### Nematoda
+*Platy: aplanado, Helmis: Gusano*
+
+Son parásitos muy comunes en el ser humano. Son acelomados y bilaterios.
+
++ Turbellaria - Dugesia tigrina
+![](http://upload.wikimedia.org/wikipedia/commons/1/1e/Pseudoceros_dimidiatus.jpg)
++ Trematodo - Fasciola hepática
+ ![](http://upload.wikimedia.org/wikipedia/commons/1/1e/Pseudoceros_dimidiatus.jpg)
++ Cestoda - Taenia saginata
+![](http://may.plumbweb.net/etc/Taxons/images/tapeworm.jpg)
+
+### Nematoda (Gusanos Redondos)
+
+*nema: hilo*
+
++ Fasmidia (Ascaris)
+![](http://i766.photobucket.com/albums/xx302/Shinka_01/Nematodos_zps4c1c7530.jpg)
++ Afasmidia (Trichinella)
+![](http://upload.wikimedia.org/wikipedia/commons/6/6a/CelegansGoldsteinLabUNC.jpg)
 
 ### Mollusca
 
-### Anelida
+*Molluscus: blando*
 
-### Arthropoda
++ Monoplacophora (Neopilina)
++ Poliplachophora (Mopalia)
++ Scaphopoda (Dentalium)
++ Gastropoda (Helix)
++ Bivaluia (Almeja)
++ Cephalopoda (Pulpo)
 
-### Equinodermata
-
-### Chordata
+- Anelida
+- Arthropoda
+- Equinodermata
+- Chordata
 
 ## Teorías
 
 ### Colonial
+
+**La teoría Colonial**
 
 Es la teoría clásica y más frecuentemente hallada en la literatura. Esta teoría fue concebida por el naturalista de origen alemán Ernst H. Haeckel (1874), más tarde modificada por el biólogo ruso y Premio Nobel Iliá Mechnikov (1887) y posteriormente revivida por el biólogo L. Hyman. (1940).
 
@@ -60,6 +94,9 @@ Los seguidores de esta concepción citan como evidencias las siguientes cuestion
 - los protistas fitoflagelados exhiben cierta tendencia a una organización colonial, que pudo haber conducido a una organización pluricelular. Por ejemplo, en Volvox se puede apreciar, como ya se dijo, una diferenciación entre las células somáticas y reproductivas.
 
 ### Simbiótica
+
+Endosimbiosis seriada
+EditarVigilar esta página
 
 Origen de las algas por endosimbiosis seriada.
 La endosimbiosis seriada (Serial Endosymbiosis Theory) o teoría endosimbiótica, describe la aparición de las células eucariotas o eucariogénesis como consecuencia de la sucesiva incorporación simbiogenética de diferentes bacterias de vida libre (procariotas); tres incorporaciones en el caso de las células animales y de hongos, y cuatro en el caso de las células vegetales.
