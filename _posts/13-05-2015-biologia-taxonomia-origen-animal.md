@@ -10,12 +10,19 @@ date: 13-05-2015
 *Porus: Poro & Fera llevar* | **Esponjas**
 
 - Calcárea
+
 ![](http://museum.wa.gov.au/sites/default/files/imagecache/wam_v2_article_full/collections/calcarea-sycon-cf-gelatinosum.jpg)
+
 - Hexactinelida
+
 ![](http://circulatoryswaggwagons.weebly.com/uploads/1/1/5/3/11533140/537643589.jpg)
+
 - Demospongiae
+
 ![](http://museum.wa.gov.au/sites/default/files/imagecache/wam_v2_article_full/collections/demospongiae-ianthella-flabelliformis.jpg)
+
 - Sclerospongiae
+
 ![](http://kasetday.agri.ubu.ac.th/upload/ciprut/root/home/jarungjit/porifera/Sclerospongiae/ceratoporella.jpg)
 
 ### Cnidaria
@@ -23,19 +30,29 @@ date: 13-05-2015
 *Cnide: Aguja, Aria: Relacionado con*
 
 - Hydrozoa
+
 ![](http://kasetday.agri.ubu.ac.th/upload/ciprut/root/home/jarungjit/porifera/Sclerospongiae/ceratoporella.jpg)
+
 - Scyphozoa
-![](http://kasetday.agri.ubu.ac.th/upload/ciprut/root/home/jarungjit/porifera/Sclerospongiae/ceratoporella.jpg)
+
+![](http://a-z-animals.com/media/animals/images/original/jellyfish4.jpg)
+
 - Anthozoa
-![](http://kasetday.agri.ubu.ac.th/upload/ciprut/root/home/jarungjit/porifera/Sclerospongiae/ceratoporella.jpg)
+
+![](https://m1.behance.net/rendition/modules/17565168/disp/8a90e45abb5e5be9230fc8318ad4db26.jpg)
 
 Ejemplos:
 
 - Hidra
-![](![](http://kasetday.agri.ubu.ac.th/upload/ciprut/root/home/jarungjit/porifera/Sclerospongiae/ceratoporella.jpg))
+
+![](http://www.nilesbio.com/images/categories/C334.jpg)
+
 - Medusa
-![](http://kasetday.agri.ubu.ac.th/upload/ciprut/root/home/jarungjit/porifera/Sclerospongiae/ceratoporella.jpg)
+
+![](http://a-z-animals.com/media/animals/images/original/jellyfish4.jpg)
+
 - Coral y Anémona
+
 ![](https://cnho.files.wordpress.com/2011/07/anemona.jpg)
 
 ### Platyhelminthes
@@ -45,10 +62,15 @@ Ejemplos:
 Son parásitos muy comunes en el ser humano. Son acelomados y bilaterios.
 
 + Turbellaria - Dugesia tigrina
+
 ![](http://upload.wikimedia.org/wikipedia/commons/1/1e/Pseudoceros_dimidiatus.jpg)
+
 + Trematodo - Fasciola hepática
+
  ![](http://upload.wikimedia.org/wikipedia/commons/1/1e/Pseudoceros_dimidiatus.jpg)
+ 
 + Cestoda - Taenia saginata
+
 ![](http://may.plumbweb.net/etc/Taxons/images/tapeworm.jpg)
 
 ### Nematoda (Gusanos Redondos)
@@ -56,8 +78,11 @@ Son parásitos muy comunes en el ser humano. Son acelomados y bilaterios.
 *nema: hilo*
 
 + Fasmidia (Ascaris)
+
 ![](http://i766.photobucket.com/albums/xx302/Shinka_01/Nematodos_zps4c1c7530.jpg)
+
 + Afasmidia (Trichinella)
+
 ![](http://upload.wikimedia.org/wikipedia/commons/6/6a/CelegansGoldsteinLabUNC.jpg)
 
 ### Mollusca
