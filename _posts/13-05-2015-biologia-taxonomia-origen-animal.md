@@ -90,23 +90,64 @@ Son parásitos muy comunes en el ser humano. Son acelomados y bilaterios.
 *Molluscus: blando*
 
 + Monoplacophora (Neopilina)
+
+![](http://www.manandmollusc.net/beginners_intro/Images/Mary_monoplacophora.gif)
+
 + Poliplachophora (Mopalia)
+
+![](http://upload.wikimedia.org/wikipedia/commons/9/9e/Tonicella-lineata.jpg)
+
 + Scaphopoda (Dentalium)
+
+![](http://www.manandmollusc.net/beginners_intro/Images/Seymour_scaphopoda.gif)
+
 + Gastropoda (Helix)
+
+![](http://farm2.staticflickr.com/1235/1141376796_18db61d3b0_z.jpg?zz=1)
+
 + Bivaluia (Almeja)
+
+![](http://www.ucmp.berkeley.edu/images/taxa/inverts/dinocardium.jpg)
+
 + Cephalopoda (Pulpo)
+
+![](http://www.ucmp.berkeley.edu/images/taxa/inverts/octopus1.jpg)
 
 ### Anelida
 
 *Anellus: pequeño anillo*
 
 + Polichaeta (Neris)
+
+![](http://marinediscovery.arizona.edu/alex%20tuttle%20webpage/fireworm.jpg)
+
 + Oligochaeta (Lumbricus)
+
+![](https://classconnection.s3.amazonaws.com/546/flashcards/360546/jpg/earthworm1332990274063.jpg)
+
 + Hirudinea (Hirudo)
 
-- Arthropoda
-- Equinodermata
-- Chordata
+![](http://www.acsmars.com/images/animalia/annelida/hirudinea.jpg)
+
+### Arthropoda (Animales con patas articuladas)
+
+*arthroron: unión, pous: pie*
+
++ Chelicerata (araña)
+
+![](https://farm3.staticflickr.com/2464/3788055878_689b088d3d_m.jpg)
+
++ Crustácea (langosta)
+
+![](http://www.spiritsd.ca/curr_content/biology20reva/bio20/dol/slides/images/crayfish.gif)
+
++ Unirramiata:
+	+ Insecta
+	+ Chilopoda
+	+ Diplopoda
+
+### Equinodermata
+### Chordata
 
 ## Teorías
 
