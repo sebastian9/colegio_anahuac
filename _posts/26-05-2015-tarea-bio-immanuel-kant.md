@@ -7,16 +7,16 @@ date: 25-05-2015
 
 ## Datos Biográficos
 
-**Nombre de nacimiento**	Immanuel Kant
-**Nacimiento**	22 de abril de 1724
-**Lugar de Nacimiento** Flag of Prussia 1892-1918.svg Königsberg, Prusia (ahora Rusia)
-**Fallecimiento** 12 de febrero de 1804 (79 años)
-**Lugar de Fallecimiento** Königsberg, Prusia
-**Nacionalidad**	Prusiano
-**Ocupación**	Filósofo, profesor
-**Lengua materna**	Alemán
-**Obras notables**
-Crítica de la razón pura, Crítica de la razón práctica, Crítica del juicio, Prolegómenos a toda metafísica futura que pueda presentarse como ciencia
+**Nombre de nacimiento**	<br>Immanuel Kant <br>
+**Nacimiento**	<br>22 de abril de 1724 <br>
+**Lugar de Nacimiento**  <br>Flag of Prussia 1892-1918.svg Königsberg, Prusia (ahora Rusia) <br>
+**Fallecimiento** <br>12 de febrero de 1804 (79 años) <br>
+**Lugar de Fallecimiento**  <br>Königsberg, Prusia <br>
+**Nacionalidad** 	<br>Prusiano <br>
+**Ocupación** <br>Filósofo, profesor <br>
+**Lengua materna** <br>Alemán <br>
+**Obras notables** <br>
+Crítica de la razón pura, Crítica de la razón práctica, Crítica del juicio, Prolegómenos a toda metafísica futura que pueda presentarse como ciencia.
 
 ## Principales Aportaciones
 
