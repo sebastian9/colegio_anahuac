@@ -51,37 +51,43 @@ Leer más en [Hidroponia.org.mx](http://hidroponia.org.mx/cultivo-hidroponico/qu
 
 ### Cultivo en Sustrato
 
-La segunda forma es directa o en sustrato 
-Primero se prepara el sustrato humedeciéndolo con agua y se homogeniza bien 
-Después se pone un poco de sustrato en el semillero con cavidades 
-Con un utensilio de platico se le hace un orificio y colocamos dos semillas
-Dejar que crezcan y trasplantar 
-Para trasplantar la lechuga primero en una bolsa la llenamos con sustrato
-Después se humedece y se homogeniza 
-Se le hacen orificios a la bolsa en la parte inferior para que pueda drenar  la solución restante 
-Una vez humedecido se trasplantara la lechuga a la bolsa 
-Se dejara en un lugar definitivo donde le pegue el sol.
+Siembra indirecta:
+
+1. Tomar, humedecer y homogeneizar el sustrato necesario;
+2. Poner un poco de sustrato en el semillero con cavidades;
+3. Hacer una concavidad en la tierra con un utensilio de plástico para colocar un para de semillas;
+4. Dejar crecer y trasplantar;
+5. Para trasplantar el cultivo preparar una bolsa negra de hidroponia con sustrato;
+6. Hacer orificios a la bolsa en la parte inferior para que se drene el agua;
+7. Trasplantar.
 
 ### Raíz Flotante 
 
 Siembra en Unicel & Huacal:
 
-1. Colocar el agrofomi en un vaso de plástico, añadirle dos semillas e hidratarlo,
-2. Dar los cuidados pertinentes a la planta y esperar a que crezca,
-3. Forrar el huacal con una bolsa negra para contener la solución nutritiva proteger a las raíces de la luz,
-4. Añadir la solución nutritiva,
-5. Adaptar un cuadro de unicel delgado para soportar al vaso del cultivo,
-6. Escoger un lugar óptimo y con luz solar para colocar el cultivo,
+1. Colocar el agrofomi en un vaso de plástico, añadirle dos semillas e hidratarlo;
+2. Dar los cuidados pertinentes a la planta y esperar a que crezca;
+3. Forrar el huacal con una bolsa negra para contener la solución nutritiva proteger a las raíces de la luz;
+4. Añadir la solución nutritiva;
+5. Adaptar un cuadro de unicel delgado para soportar al vaso del cultivo;
+6. Escoger un lugar óptimo y con luz solar para colocar el cultivo;
 7. Oxignenar la solución diariamente.
 
 Usando un bote de Crema:
 
-1. Colocar el agrofomi en un vaso de plástico, añadirle dos semillas e hidratarlo,
-2. Dar los cuidados pertinentes a la planta y esperar a que crezca,
-3. Adaptar la tapa del bote para soportar al vaso del cultivo,
-4. Ensamblar el recipiente del cultivo en la tapa para dejar a la raíces nadar en la solución,
-5. Escoger un lugar óptimo y con luz solar para colocar el cultivo,
+1. Colocar el agrofomi en un vaso de plástico, añadirle dos semillas e hidratarlo;
+2. Dar los cuidados pertinentes a la planta y esperar a que crezca;
+3. Adaptar la tapa del bote para soportar al vaso del cultivo;
+4. Ensamblar el recipiente del cultivo en la tapa para dejar a la raíces nadar en la solución;
+5. Escoger un lugar óptimo y con luz solar para colocar el cultivo;
 6. Oxigenar diariamente la solución nutritiva.
+
+### Consideraciones Generales en el Cuidado del Cultivo
+
++ Mantener en un lugar soleado
++ Alimentar con solución nutritiva ya que el sustrato es un material inerte
++ Proteger de la luz a las raíces
++ Mantener el agua oxigenada o fresca (dependiendo de la técnica)
 
 ## Evidencias
 
@@ -108,4 +114,3 @@ Usando un bote de Crema:
 ![](//sebastianls.com/colegio_anahuac/assets/img/reporte-ecologia/12.jpeg)
 
 ![](//sebastianls.com/colegio_anahuac/assets/img/reporte-ecologia/13.jpeg)
-
