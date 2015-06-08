@@ -41,6 +41,13 @@ Leer más en [Hidroponia.org.mx](http://hidroponia.org.mx/cultivo-hidroponico/qu
 
 ## Bitácora
 
+### Consideraciones Generales en el Cuidado del Cultivo
+
++ Mantener en un lugar soleado,
++ Alimentar con solución nutritiva ya que el sustrato es un material inerte,
++ Proteger de la luz a las raíces,
++ Mantener el agua oxigenada o fresca (dependiendo de la técnica).
+
 ### Solución nutritiva (Preparación)
 
 1. Abrir la bolsa,
@@ -81,13 +88,6 @@ Usando un bote de Crema:
 4. Ensamblar el recipiente del cultivo en la tapa para dejar a la raíces nadar en la solución;
 5. Escoger un lugar óptimo y con luz solar para colocar el cultivo;
 6. Oxigenar diariamente la solución nutritiva.
-
-### Consideraciones Generales en el Cuidado del Cultivo
-
-+ Mantener en un lugar soleado
-+ Alimentar con solución nutritiva ya que el sustrato es un material inerte
-+ Proteger de la luz a las raíces
-+ Mantener el agua oxigenada o fresca (dependiendo de la técnica)
 
 ## Evidencias
 
