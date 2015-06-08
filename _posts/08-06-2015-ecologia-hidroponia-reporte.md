@@ -41,6 +41,14 @@ Leer más en [Hidroponia.org.mx](http://hidroponia.org.mx/cultivo-hidroponico/qu
 
 ## Bitácora
 
+### Solución nutritiva (Preparación)
+
+1. Abrir la bolsa,
+2. Llenar el vaso medidor a razón de 1/4 de vaso por cada 5 litros de agua,
+3. Añadir el polvo al agua,
+4. Agitar con un utensilio de madera o plástico.
+
+
 ### Cultivo en Sustrato
 
 La segunda forma es directa o en sustrato 
@@ -54,15 +62,7 @@ Se le hacen orificios a la bolsa en la parte inferior para que pueda drenar  la 
 Una vez humedecido se trasplantara la lechuga a la bolsa 
 Se dejara en un lugar definitivo donde le pegue el sol.
 
-
 ### Raíz Flotante 
-
-Pasos para preparar la solución nutritiva:
-
-1. Abrir la bolsa,
-2. Llenar el vaso medidor a razón de 1/4 de vaso por cada 5 litros de agua,
-3. Añadir el polvo al agua,
-4. Agitar con un utensilio de madera o plástico.
 
 Siembra en Unicel & Huacal:
 
@@ -85,3 +85,16 @@ Usando un bote de Crema:
 
 ## Evidencias
 
+![](1.jpeg)
+![](2.jpeg)
+![](3.jpeg)
+![](4.jpeg)
+![](5.jpeg)
+![](6.jpeg)
+![](7.jpeg)
+![](8.jpeg)
+![](9.jpeg)
+![](10.jpeg)
+![](11.jpeg)
+![](12.jpeg)
+![](13.jpeg)
