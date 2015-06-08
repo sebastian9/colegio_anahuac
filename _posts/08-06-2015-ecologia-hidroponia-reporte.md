@@ -5,6 +5,20 @@ categories: ecologia
 date: 08-06-2015
 ---
 
+<hr>
+
+**Nombre:** Sebastián López Sánchez
+
+**Grupo:** 601-A
+
+**Tema:** La Hidroponia
+
+**Materia:** Ecología y Medio Ambiente
+
+**Matrícula:** PVPR12052
+
+<hr>
+
 ## Introducción
 
 La Hidroponia es una técnica utilizada en el cultivo de plantas que pueden ser colocadas en diferentes ambientes como los de sustrato o raíz flotante. Las plantas son alimentadas a través de una solución nutritiva disuelta en agua que contiene todos los nutrientes necesarios para el desarrollo saludable de un cultivo.
@@ -27,30 +41,7 @@ Leer más en [Hidroponia.org.mx](http://hidroponia.org.mx/cultivo-hidroponico/qu
 
 ## Bitácora
 
-La primera forma fue la técnica de la raíz flotante 
-Pasos para preparar la solución nutritiva:
-Se abre la bolsa de la parte superior 
-Se llena el vaso medidor 
-Se vacía en un recipiente de plástico que contenga 20 lts de agua
-Se agita con un utensilio de madera o plástico 
-Se sella la bolsa 
-Pasos para la siembra 
-Primero en un vasito de plástico se ponen el agrofomi y después se colocan dos semillas de la lechuga e hidratamos el agrofomi.
-Hay dos opciones pasarlo a un bote de crema o a un huacal pequeño
-Si fue la opción del bote de crema este es el procedimiento:
-Una vez que la lechuga ya haya crecido en el vasito vamos a trasplantarla a un bote de crema 
- Pero primero en la tapa del bote se tiene que hacer un orificio del tamaño del vasito de plástico.
-Dentro del bote pusimos solución nutritiva 
-Metemos  el vasito en el bote dejando las raíces nadar en la solución 
-Una  vez que ya este así se coloca en un lugar definitivo donde le pegue el sol
-Y todos los días tres veces al día se tiene que oxigenar la solución con un utensilio de plástico 
-*nota: si la raíz es café le falta oxigenación y si esta blanca está lo suficientemente oxigenada 
-Si es la forma del huacal sigue los siguientes pasos:
-En un huacal pequeño se forra con una bolsa negra para que no le entre la luz a las raíces 
-Una vez hecho eso se llena con solución nutritiva
-Después con un cuadrado de unicel delgado se le hace un orificio del tamaño del vasito de plástico
-Una vez que el orificio este hecho metemos el vasito ahí 
-Se deja en un lugar definitivo donde le pegue el sol y 3 veces al dia diario se tiene que oxigenar la solución.
+### Cultivo en Sustrato
 
 La segunda forma es directa o en sustrato 
 Primero se prepara el sustrato humedeciéndolo con agua y se homogeniza bien 
@@ -62,3 +53,35 @@ Después se humedece y se homogeniza
 Se le hacen orificios a la bolsa en la parte inferior para que pueda drenar  la solución restante 
 Una vez humedecido se trasplantara la lechuga a la bolsa 
 Se dejara en un lugar definitivo donde le pegue el sol.
+
+
+### Raíz Flotante 
+
+Pasos para preparar la solución nutritiva:
+
+1. Abrir la bolsa,
+2. Llenar el vaso medidor a razón de 1/4 de vaso por cada 5 litros de agua,
+3. Añadir el polvo al agua,
+4. Agitar con un utensilio de madera o plástico.
+
+Siembra en Unicel & Huacal:
+
+1. Colocar el agrofomi en un vaso de plástico, añadirle dos semillas e hidratarlo,
+2. Dar los cuidados pertinentes a la planta y esperar a que crezca,
+3. Forrar el huacal con una bolsa negra para contener la solución nutritiva proteger a las raíces de la luz,
+4. Añadir la solución nutritiva,
+5. Adaptar un cuadro de unicel delgado para soportar al vaso del cultivo,
+6. Escoger un lugar óptimo y con luz solar para colocar el cultivo,
+7. Oxignenar la solución diariamente.
+
+Usando un bote de Crema:
+
+1. Colocar el agrofomi en un vaso de plástico, añadirle dos semillas e hidratarlo,
+2. Dar los cuidados pertinentes a la planta y esperar a que crezca,
+3. Adaptar la tapa del bote para soportar al vaso del cultivo,
+4. Ensamblar el recipiente del cultivo en la tapa para dejar a la raíces nadar en la solución,
+5. Escoger un lugar óptimo y con luz solar para colocar el cultivo,
+6. Oxigenar diariamente la solución nutritiva.
+
+## Evidencias
+
