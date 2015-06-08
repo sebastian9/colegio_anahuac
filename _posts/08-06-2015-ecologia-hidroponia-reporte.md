@@ -86,15 +86,26 @@ Usando un bote de Crema:
 ## Evidencias
 
 ![](//sebastianls.com/colegio_anahuac/assets/img/reporte-ecologia/1.jpeg)
+
 ![](//sebastianls.com/colegio_anahuac/assets/img/reporte-ecologia/2.jpeg)
+
 ![](//sebastianls.com/colegio_anahuac/assets/img/reporte-ecologia/3.jpeg)
+
 ![](//sebastianls.com/colegio_anahuac/assets/img/reporte-ecologia/4.jpeg)
+
 ![](//sebastianls.com/colegio_anahuac/assets/img/reporte-ecologia/5.jpeg)
+
 ![](//sebastianls.com/colegio_anahuac/assets/img/reporte-ecologia/6.jpeg)
+
 ![](//sebastianls.com/colegio_anahuac/assets/img/reporte-ecologia/7.jpeg)
+
 ![](//sebastianls.com/colegio_anahuac/assets/img/reporte-ecologia/8.jpeg)
+
 ![](//sebastianls.com/colegio_anahuac/assets/img/reporte-ecologia/9.jpeg)
-![](//sebastianls.com/colegio_anahuac/assets/img/reporte-ecologia/10.jpeg)
+
 ![](//sebastianls.com/colegio_anahuac/assets/img/reporte-ecologia/11.jpeg)
+
 ![](//sebastianls.com/colegio_anahuac/assets/img/reporte-ecologia/12.jpeg)
+
 ![](//sebastianls.com/colegio_anahuac/assets/img/reporte-ecologia/13.jpeg)
+
