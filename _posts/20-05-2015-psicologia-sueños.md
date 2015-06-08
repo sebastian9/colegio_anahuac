@@ -14,5 +14,7 @@ En la calle que separaba a los había un *dinosaurio* t-rex acostado (me gustaba
 La última vez que recuerdo haberlo soñado la trama cambió radicalmente y acabé huyendo de los apartamentos perseguido por un pterodáctilo con mis papás en una hummer.
 
 *Estacionamiento:* Hay cosas en tu vida que te detienen y estás ávido de deshacerte de ellas.
+
 *Túnel:* Tienes que sortear los obstáculos usando tu ingenio.
+
 *Dinosaurio:* Hay veces que los problemas te parecerán enormes y atemorizantes.
