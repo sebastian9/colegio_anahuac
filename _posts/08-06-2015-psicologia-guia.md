@@ -2,6 +2,7 @@
 title: Guía de Psicología, Bloque 3
 date: 08-06-2015
 category: psicologia
+layout: post
 ---
 
 1. ¿Cuándo podemos afirmar que una persona posee una personalidad saludable? <br> Cundo el conjunto de sus rasgos le permiten hacer frente a la vida cotidiana, en otras palabras, *ser funcional*.
