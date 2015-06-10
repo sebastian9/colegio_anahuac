@@ -1,3 +1,10 @@
+---
+title: Trabajo de Presentación | Alcholismo
+category: salud
+layout: post
+---
+
+
 # Introducción
 
 El alcoholismo es una enfermedad que afecta a aquellas personas que sufren de una compulsión por ingerir bebidas con contenido alcohólico. El alcoholismo ocasiona que una persona se trastorne al grado de que lastima a las personas que quiere y pierde su capacidad de mantenerse funcional en la vidad diaria.
