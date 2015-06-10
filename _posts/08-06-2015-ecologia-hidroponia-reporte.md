@@ -114,3 +114,7 @@ Usando un bote de Crema:
 ![](//sebastianls.com/colegio_anahuac/assets/img/reporte-ecologia/12.jpeg)
 
 ![](//sebastianls.com/colegio_anahuac/assets/img/reporte-ecologia/13.jpeg)
+
+## Conclusión
+
+La hidroponia es una alternativa real al problema de la escasez de comida en el mundo, a la falta de suelos fértiles, y a las consecuencias que los desastres naturales presentan en los cultivos. Las técnicas hidroponias podrían fácillmente ser implementadas en un sistema de cultivos vertical y automatizado para optimizar tiempos, recursos, espacios y mano de obra en la producción de alimentos para la gran demanda que tendrán las megalópolis en un futuro.
