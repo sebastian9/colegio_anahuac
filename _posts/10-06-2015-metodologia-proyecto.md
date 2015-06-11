@@ -20,6 +20,8 @@ Actualmente en el Distrito Federal existe un elevado índice de atentados en el 
 
 ## Justificación
 
+La inseguridad en el Distrito Federal es un problema grave que nos afecta directa e indirectamente. La sensación de inseguridad entre las personsas atrofia las actividades regulares de las mismas y reduce la funcionalidad de la población económicamente activa al tiempo que nubla la imagen de México que se forman los posibles inversionistas extranjeros.
+
 ## Hipótesis
 
 ¿Es la violencia un factor clave en la imagen de la ciudad de méxico y la calidad de vida de sus ciudadanos?
