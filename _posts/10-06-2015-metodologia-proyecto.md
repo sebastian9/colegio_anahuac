@@ -5,6 +5,22 @@ title: Protocolo (Proyecto)
 date: 10-08-2015
 ---
 
+
+<hr>
+
+**Nombre:** Sebastián López Sánchez
+
+**Grupo:** 601-A
+
+**Tema:** El Protocolo
+
+**Materia:** Metodología
+
+**Matrícula:** PVPR12052
+
+<hr>
+
+
 ## La Sensación de Inseguridad en los Taxis en la Ciudad de México en el Último Lustro
 
 Actualmente en el Distrito Federal existe un elevado índice de atentados en el transporte público algo que se encuentra documentado y que se ha difundido por diferentes medios de comunicación. (Documentar, tipo de investigación, y por qué es un problema para la ciencia)
@@ -71,4 +87,7 @@ Ocupación: <br>
 
 ## Referencias Hemerográficas
 
-## Referencias de Trabajo
+## Referencias Electrónicas
+
+Excélsior - [Banda de *criminales* que afectan al usuario de taxi](http://www.excelsior.com.mx/node/710526) <br>
+El Universal - [Crecen 139% asaltos en taxis en cinco años](http://www.eluniversal.com.mx/ciudad/105375.html)
